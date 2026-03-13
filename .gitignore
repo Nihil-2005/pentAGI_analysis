@@ -1,0 +1,14 @@
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
+*.log
+.env
+**/api-keys.txt
+**/credentials.txt
+*.mp4
+*.mov
+node_modules/
+dist/
+build/
