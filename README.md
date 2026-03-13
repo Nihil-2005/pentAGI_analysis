@@ -1,2 +1,2 @@
 # pentAGI_analysis
-this repo holds the data about how pentAGI tool woks and how i used it 
+## This repo holds the data about how pentAGI tool woks and how i used it. 
